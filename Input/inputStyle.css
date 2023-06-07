@@ -1,0 +1,9 @@
+.container .input .display {
+  border: 10px solid;
+}
+
+.container .total {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
